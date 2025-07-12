@@ -1,2 +1,2 @@
 # AlgoServer
-Вещь работающая с AlgoAPI
+Вещь работающая с AlgoAPI, гайды в моем тгк: https://t.me/AlgoToolsOfficial
